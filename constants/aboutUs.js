@@ -1,0 +1,5 @@
+exports.data = {
+    aboutISERD: "ISERD is  a Non – Profit  Organization assembled  by experts from all over the world to address the growing need of IPR awareness. Our team, completely focus on helping and guiding the schools, universities and industries regarding IPR.\
+    \n\nIt encompasses all the fields which can help young innovators in every possible way to achieve success in their lives. We at ISERD make sure on our part, to serve you with every opportunity which your talent deserves. We organize seminars, competitions, open house sessions, knowledge sharing sessions, motivational speeches to make every member aware of their own innovative capabilities and boost them to grow flawlessly.",
+    role: "Our plan is to make you catch the train of innovation and then slide far away towards success. We want you to not only go with flow but we want you to create a separate base for yourself. We will provide you every single detail about patents, trademarks, innovation challenges, designs etc. to first get knowledge about it and then find your area to grow. We will guide you at each step of your hardwork and promise not to get it wasted."
+};

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144869799987",
+    "firebase_url": "https://saltifier.firebaseio.com",
+    "project_id": "saltifier",
+    "storage_bucket": "saltifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144869799987:android:7afd9f1990a0b077470b46",
+        "android_client_info": {
+          "package_name": "com.saltifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144869799987-hp40mpnnrduid7sf4d1qorql8t96ug5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGzypVsFbaseL3AJyCtf6btp2btWlzpZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144869799987-hp40mpnnrduid7sf4d1qorql8t96ug5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
